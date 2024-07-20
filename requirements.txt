@@ -8,5 +8,4 @@ langchain-openai
 opentelemetry-api
 opentelemetry-exporter-otlp-proto-http
 opentelemetry-sdk
-serper
 openrouter-sdk

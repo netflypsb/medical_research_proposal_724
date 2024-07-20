@@ -1,8 +1,7 @@
 streamlit
 crewai
-crewai-tools
+crewai[tools]
 openai
-pydantic
 langchain
 langchain-community
 langchain-core

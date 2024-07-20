@@ -4,5 +4,14 @@ crewai-tools
 openai
 pydantic
 langchain
+langchain-community
+langchain-core
+langchainhub
 langchain-openai
+google-search-results
+duckduckgo-search
+semanticscholar
+docx2txt
+python-dotenv
+xmltodict
 

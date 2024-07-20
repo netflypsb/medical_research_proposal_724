@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-from langchain import ChatOpenAI
+from langchain_openai import ChatOpenAI
 from crewai import Agent, Task, Crew, Process
 from crewai_tools import SerperDevTool
 

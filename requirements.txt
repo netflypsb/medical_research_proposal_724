@@ -5,7 +5,4 @@ openai
 pydantic
 langchain
 langchain-openai
-opentelemetry-api
-opentelemetry-exporter-otlp-proto-http
-opentelemetry-sdk
-openrouter-sdk
+
